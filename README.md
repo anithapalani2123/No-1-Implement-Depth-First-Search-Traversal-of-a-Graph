@@ -1,4 +1,4 @@
-# No-1-Implement-Depth-First-Search-Traversal-of-a-Graph
+
 # EXP01-Implement-Depth-First-Search-Traversal-of-a-Graph
 
 #### NAME: Anitha P
